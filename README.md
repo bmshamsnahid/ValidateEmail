@@ -12,7 +12,7 @@ It validates the email through regex.
 
 ## Usage
 
-`validateEmail(email)`
+`validate(email)`
 
 The function signature accepts an arguments and returns a boolean value.
 
@@ -23,7 +23,7 @@ The function signature accepts an arguments and returns a boolean value.
 
 ```js
 const validateEmail = require('validate-email-node-js');
-const result = validateEmail('mail@example.com');
+const result = validateEmail.validate('mail@example.com');
 
 ```
 

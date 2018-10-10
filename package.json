@@ -1,6 +1,6 @@
 {
-  "name": "validate-email-js",
-  "version": "0.0.1",
+  "name": "validate-email-node-js",
+  "version": "0.0.2",
   "description": "Validate email in node js",
   "main": "index.js",
   "scripts": {
