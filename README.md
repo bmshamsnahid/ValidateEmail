@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Email check is a [npm](http://npmjs.org) module for [NodeJS](http://nodejs.org/), that **checks if an email address exists and valid**.
+Email check is a [npm](https://www.npmjs.com/package/validate-email-node-js) module for [NodeJS](http://nodejs.org/), that **checks if an email address exists and valid**.
 
 It validates the email through regex.
 
